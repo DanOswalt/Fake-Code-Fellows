@@ -1,13 +1,12 @@
 body {
-	font-family: 'Source Code Pro';
+	font-family: 'Source Code Pro', courier;
 	font-size: 16px;
 }
 
-.home-welcome {
-	background-image: url('img/codeclass.jpg');
-	height: 550px;
-	width: 100%;
-}
+/*.home-welcome {
+	background: url('../img/codeclass.jpg') no-repeat;
+	max-width: 100%;
+}*/
 
 .navbar {
 	background-color: #000;
@@ -23,7 +22,7 @@ body {
 
 .navbar-brand {
 	width: 210px;
-	background: url('img/cflogo.png');
+/*	background: url('img/cflogo.png');*/
 	margin-top: 10px;
 }
 
