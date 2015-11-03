@@ -42,11 +42,11 @@ body {
 }
 
 .nav .cf-pill-btn {
-	margin-top: 30px;
 	padding: 5px 15px;
 }
 
 .home-welcome .cf-pill-btn {
+	margin-top: 30px;	
 	padding: 15px 25px;
 }
 
